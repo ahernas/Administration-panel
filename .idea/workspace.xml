@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbe78400-425e-4691-b290-cb2ab47d8b2b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/sass/components/form_field.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/pages/registration.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/sections/registration_form.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/sections/sidebar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sass/sections/top-bar.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/_layout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/_layout.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/sass/style.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1a8PwfEMj6PgEj0WoyEs89EILIP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.stylelint" value="$PROJECT_DIR$/node_modules/stylelint" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbe78400-425e-4691-b290-cb2ab47d8b2b" name="Default Changelist" comment="" />
+      <created>1586114487688</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586114487688</updated>
+      <workItem from="1586114489917" duration="37030000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="525" y="216" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586276602137">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="525" y="216" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1586276602137" />
+    <state x="405" y="192" key="EditFileWatcherDialog" timestamp="1586276066661">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="405" y="192" key="EditFileWatcherDialog/0.0.1536.824@0.0.1536.824" timestamp="1586276066661" />
+    <state x="277" y="56" key="SettingsEditor" timestamp="1586293129371">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="56" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586293129371" />
+    <state x="462" y="144" width="611" height="536" key="find.popup" timestamp="1586351572661">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="462" y="144" width="611" height="536" key="find.popup/0.0.1536.824/-977.-2160.2560.1400@0.0.1536.824" timestamp="1586351572661" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1586294615944">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1586294615944" />
+  </component>
+</project>

@@ -1,0 +1,69 @@
+@import '../variables';
+
+.logo {
+  padding: 15px 0 15px 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.fa-bars {
+  color: $sidebar-menu-text-color;
+  padding-right: 20px;
+}
+
+.icon-sidebar {
+  width: 17px;
+  height: 20px;
+}
+
+.sidebar-menu {
+  li {
+    list-style: none;
+    padding-left: 25px;
+    height: 40px;
+
+    &:hover {
+      background-color: #282828;
+
+      a, svg {
+        color: white;
+        fill: white;
+      }
+    }
+
+    a {
+      text-decoration: none;
+      color: $sidebar-menu-text-color;
+      height: 100%;
+      display: flex;
+      align-items: center;
+
+      svg {
+        fill: $sidebar-menu-text-color;
+        padding-right: 15px;
+      }
+    }
+  }
+}
+
+.contact-people {
+  padding: 60px 0 0 25px;
+  text-transform: uppercase;
+  font-size: $text-font-size;
+  color: $sidebar-menu-text-color;
+}
+
+.people-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding-left: 20px;
+
+  p {
+    padding-left: 10px;
+    color: $elements-color;
+    font-size: $text-font-size;
+  }
+}
+

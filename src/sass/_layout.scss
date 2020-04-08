@@ -1,0 +1,28 @@
+@import 'variables';
+
+body {
+  margin: 0;
+}
+
+#page-container {
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+}
+
+#sidebar {
+  width: 15%;
+  height: 100%;
+  background-color: $sidebar-menu-color;
+}
+
+#main-page {
+  width: 85%;
+}
+
+#top-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  border: $border;
+}
