@@ -1,0 +1,13 @@
+.btn-add {
+  display: flex;
+  width: 130px;
+  height: 40px;
+  background-color: $button-color;
+  border-radius: 2px;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-family: $brand-font;
+  font-size: $paragraph-font-size;
+  margin: 24px 0;
+}

@@ -1,0 +1,22 @@
+.text-container {
+  background-color: white;
+  margin-bottom: 18px;
+  border: $border;
+}
+
+.center-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.page-header {
+  width: 100%;
+  margin: 0;
+  font-size: $paragraph-font-size;
+  font-family: $brand-font;
+  text-transform: uppercase;
+  color: $sidebar-menu-text-color;
+  padding: 18px 0 18px 18px;
+  border-bottom: $border;
+}
