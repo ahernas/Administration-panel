@@ -1,5 +1,3 @@
-@import 'variables';
-
 body {
   margin: 0;
 }
@@ -11,7 +9,7 @@ body {
 }
 
 #sidebar {
-  width: 15%;
+  width: 200px;
   height: 100%;
   background-color: $sidebar-menu-color;
 }
